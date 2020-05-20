@@ -10,10 +10,7 @@ body {
   }
   
   .container {
-    background-color: lightseagreen;
     padding: 3rem;
-    border-radius: 1rem;
-    border: 2px solid black;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -52,6 +49,7 @@ body {
     background-color: white;
     color: black;
     padding: 1rem;
+    margin-bottom: 1rem;
     border: 1px solid #333;
     height: 1rem;
     width: 350px;
